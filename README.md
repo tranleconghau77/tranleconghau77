@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tranleconghau77
 - 👀 I’m interested in learning new knowledge, languages, ...
-- 🌱 I’m currently learning JS, Python
+- 🌱 I’m currently learning Javascripts, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tranleconghau772001@gmail.com
 
